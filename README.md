@@ -12,6 +12,8 @@ The lectures are based on the *flipped-classroom principle*. One week before the
 
 Please feel free to comment on all the slides available. Open up a ticket if you find anything I should update or fix. Please be aware that the videos are from a parallel course with the lecture code BM24. Don't get confused.
 
+The state of the slides is from last year. The content will be exactly the same, but I will update the organizational part. 
+
 | Date                | Topic                         | Resources      |
 |---------------------|-------------------------------|----------------|
 | 2020-11-06 at 13:30 | Introduction and Welcome      | [pdf](slides/DIS12-01-introduction.pdf), [video](https://youtu.be/g58QPBqKJgk) |
