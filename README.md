@@ -14,7 +14,7 @@ The lectures are based on the flipped-classroom principle. One week before the a
 
 ## Slides and online lecture archive
 
-Please feel free to comment on all the slides available. Open up a ticket if you find anything I should update or fix.
+Please feel free to comment on all the slides available. Open up a ticket if you find anything I should update or fix. Please be aware that the videos are from a parallel course with the lecture code BM24. Don't get confused.
 
 The following slide sets are available:
 
