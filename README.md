@@ -4,7 +4,7 @@
 
 All lectures will be hosted on Zoom: https://th-koeln.zoom.us/j/87016873511. The password for Zoom is the ZIP code of  TH Köln @ Claudiusstraße 1. 
 
-The lectures are based on the flipped-classroom principle. One week before the actual lectures we will release the slides and video for the specific topic. At the following dates we discuss the corresponding topics in depth. You are required to watch all videos *before* the Zoom meetings. I will not start all over again but expect you to be prepared.
+The lectures are based on the *flipped-classroom principle*. One week before the actual lectures we will release the slides and video for the specific topic. At the following dates we discuss the corresponding topics in depth. You are required to watch all videos *before* the Zoom meetings. I will not start all over again but expect you to be prepared.
 
 ![](dis12-2020-schedule.png)
 
