@@ -19,4 +19,4 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 The following slide sets are available:
 
 * __01 Introduction__         [pdf](slides/DIS12-01-introduction.pdf) | [video](https://youtu.be/g58QPBqKJgk)
-* __02 Boolean Retrieval__    [pdf](slides/DIS12-02-tf-idf.pdf) | [video](https://youtu.be/EcPBqIM3uO0)
+* __02 Boolean Retrieval__    [pdf](slides/DIS12-02-boolean.pdf) | [video](https://youtu.be/EcPBqIM3uO0)
