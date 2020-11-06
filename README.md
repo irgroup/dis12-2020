@@ -12,10 +12,11 @@ The lectures are based on the *flipped-classroom principle*. One week before the
 
 Please feel free to comment on all the slides available. Open up a ticket if you find anything I should update or fix. Please be aware that the videos are from a parallel course with the lecture code BM24. Don't get confused.
 
-The state of the slides is from last year. The content will be exactly the same, but I will update the organizational part. 
 
 | Date                | Topic                         | Resources      |
 |---------------------|-------------------------------|----------------|
-| 2020-11-06 at 13:30 | Introduction and Welcome      | [pdf](slides/DIS12-01-introduction.pdf), [video](https://youtu.be/g58QPBqKJgk) |
+| 2020-11-06 at 13:30 | Syllabus                      | [pdf](slides/DIS12-00-syllabus.pdf) |
+| 2020-11-06 at 14:00 | Introduction and Welcome      | [pdf](slides/DIS12-01-introduction.pdf), [video](https://youtu.be/g58QPBqKJgk) |
 | 2020-11-13 at 13:30 | Boolean Retrieval             | [pdf](slides/DIS12-02-boolean.pdf), [video](https://youtu.be/EcPBqIM3uO0) |
-| 2020-11-13 at 15:15 | TF-IDF                        | |
+| 2020-11-13 at 15:15 | TF-IDF                        | [pdf](slides/DIS12-03-tfidf.pdf), [video](https://youtu.be/CPrij20NmXY)|
+
