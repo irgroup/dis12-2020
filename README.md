@@ -21,4 +21,6 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 | 2020-11-13 at 15:15 | TF-IDF                         | [pdf](slides/DIS12-03-tfidf.pdf), [video](https://youtu.be/CPrij20NmXY), [exercise](exercises/DIS12-03-tfidf-exercise.pdf), [shakespeare.zip](exercises/shakespeare.zip) |
 | 2020-11-20 at 13:30 | Vector Space Model and Ranking | [pdf](slides/DIS12-04-ranking.pdf), [video](https://youtu.be/b1JanvFBlWU), [exercise](exercises/DIS12-04-ranking-exercise.pdf) |
 | 2020-11-20 at 13:30 | Indexing, Terms and Tokens     | [pdf](slides/DIS12-05-index.pdf), [video](https://youtu.be/GdU5SN7q0G0), [exercise](exercises/DIS12-05-index-exercise.pdf) |
+| 2020-12-18 at 13:30 | Query Expansion     | coming Saturday 2020-12-12 |
+| 2020-12-18 at 13:30 | Evaluation     | coming Saturday 2020-12-12 |
 
