@@ -19,8 +19,8 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 | 2020-11-06 at 14:00 | Introduction and Overview           | [pdf](slides/DIS12-01-introduction.pdf), [video](https://youtu.be/g58QPBqKJgk) |
 | 2020-11-13 at 13:30 | Boolean Retrieval                   | [pdf](slides/DIS12-02-boolean.pdf), [video](https://youtu.be/EcPBqIM3uO0) |
 | 2020-11-13 at 15:15 | TF-IDF                              | [pdf](slides/DIS12-03-tfidf.pdf), [video](https://youtu.be/CPrij20NmXY) |
-| 2020-11-20 at 13:30 | Vector Space Model                  | [pdf](slides/DIS12-04-ranking.pdf), [video](https://youtu.be/b1JanvFBlWU), [exercise](exercises/DIS12-04-ranking-exercise.pdf) |
-| 2020-11-20 at 13:30 | Indexing, Terms and Token.s         | [pdf](slides/DIS12-05-index.pdf), [video](https://youtu.be/GdU5SN7q0G0), [exercise](exercises/DIS12-05-index-exercise.pdf)     |
+| 2020-11-20 at 13:30 | Vector Space Model                  | [pdf](slides/DIS12-04-ranking.pdf), [video](https://youtu.be/b1JanvFBlWU) |
+| 2020-11-20 at 13:30 | Indexing, Terms and Token.s         | [pdf](slides/DIS12-05-index.pdf), [video](https://youtu.be/GdU5SN7q0G0) |
 | 2020-12-04 at 13:30 | Exercise Boolean Retrieval          | [exercise](exercises/DIS12-02-boolean-exercise.pdf) |
 | 2020-12-04 at 15:15 | Exercise TF-IDF                     | [exercise](exercises/DIS12-03-tfidf-exercise.pdf), [shakespeare.zip](exercises/shakespeare.zip) |
 | 2020-12-11 at 13:30 | Exercise Vector Space Model         | [exercise](exercises/DIS12-04-ranking-exercise.pdf) |
