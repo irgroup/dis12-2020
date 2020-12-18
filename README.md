@@ -31,5 +31,5 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 | 2021-01-08 at 15:15 | Link Analysis                       | [pdf](slides/DIS12-09-linkanalysis.pdf), [video](https://youtu.be/ppqwuVAw_oA) |
 | 2021-01-15 at 13:30 | Exercise Evaluation                 | [exercise](exercises/DIS12-06-evaluation-exercise.pdf)    |
 | 2021-01-15 at 15:15 | Exercise Query Expansion            | [exercise](exercises/DIS12-07-queryexp-exercise.pdf)    |
-| 2021-01-22 at 13:30 | Exercise Web Crawling + Link Analysis |  |
+| 2021-01-22 at 13:30 | Exercise Web Crawling + Link Analysis | [exercise](exercises/DIS12-08-webcrawling-linkanalysis-exercise.pdf) |
 | 2021-01-22 at 15:15 | Q&A Session on everything           | [discussion board](https://github.com/irgroup/dis12-2020/discussions)    |
