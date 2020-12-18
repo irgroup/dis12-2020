@@ -27,4 +27,9 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 | 2020-12-11 at 15:15 | Exercise Indexing, Terms and Tokens | [exercise](exercises/DIS12-05-index-exercise.pdf)     |
 | 2020-12-18 at 13:30 | Evaluation                          | [pdf](slides/DIS12-06-evaluation.pdf), [video](https://youtu.be/DDfa685DFfw) |
 | 2020-12-18 at 15:15 | Query Expansion                     | [pdf](slides/DIS12-07-queryexpansion.pdf), [video](https://youtu.be/4KMtwZ98vmA) |
-
+| 2021-01-08 at 13:30 | Web Crawling                        | [pdf](slides/DIS12-08-webcrawling.pdf), [video](https://youtu.be/7WldGmUVztE) |
+| 2021-01-08 at 15:15 | Link Analysis                       | [pdf](slides/DIS12-09-linkanalysis.pdf), [video](https://youtu.be/ppqwuVAw_oA) |
+| 2021-01-15 at 13:30 | Exercise Evaluation                 | [exercise](exercises/DIS12-06-evaluation-exercise.pdf)    |
+| 2021-01-15 at 15:15 | Exercise Query Expansion            | [exercise](exercises/DIS12-07-queryexp-exercise.pdf)    |
+| 2021-01-22 at 13:30 | Exercise Web Crawling + Link Analysis |  |
+| 2021-01-22 at 15:15 | Q&A Session on everything           | [discussion board](https://github.com/irgroup/dis12-2020/discussions)    |
